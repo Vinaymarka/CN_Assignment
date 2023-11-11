@@ -39,4 +39,5 @@ To exit Mininet, simply type exit in the Mininet CLI.
 
 ''''
 Details about how to run parttwo.py
+Same process goes for parttwo.py
 
